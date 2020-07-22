@@ -1,12 +1,12 @@
 <?php
   if(isset($_POST['submit'])) {
-	$Name = $_REQUEST['name'];
+	$Name = $_POST['name'];
 	
 	
-	$email = $_REQUEST['email'];
+	$email = $_POST['email'];
 	
-	$subject = $_REQUEST['subject'];
-	$message = $_REQUEST["message"];
+	$subject = $_POST['subject'];
+	$message = $_POST["message"];
 
 	if (empty($Name)) || (empty($email)) || (empty($subject)) || (empty($message)){
 
