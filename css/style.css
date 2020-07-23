@@ -485,10 +485,10 @@ nav ul li a {
 }
 
 #contact .validation {
-  color: red;
+  color: #efeded;
   display: none;
   margin: 0 0 20px;
-  font-weight: 400;
+  font-weight: 200;
   font-size: 13px;
 }
 .contact-list {
