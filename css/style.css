@@ -278,13 +278,13 @@ nav ul li a {
   font-size: 40px;
   font-weight: 600;
   margin-bottom: 10px;
-  padding-top: 300px;
+  padding-top: 340px;
   color: #ddd9d9;
   
 }
 
 .header-content p {
-  font-size: 15px;
+  font-size: 18px;
   letter-spacing: 0.8px;
   margin-top: 0;
   margin-bottom: 20px;
@@ -717,7 +717,7 @@ nav ul li a {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color: #000;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
   -o-transition: all 0.5s ease-in-out 0s;
