@@ -271,14 +271,14 @@ nav ul li a {
   align-content: center;
   justify-content: center;
   flex-direction: column;
-  margin-left: -6.5rem;
+  
 }
 
 .header-content h1 {
   font-size: 40px;
   font-weight: 600;
   margin-bottom: 10px;
-  padding-top: 300px;
+  padding-top: 270px;
   color: #ddd9d9;
   
 }
