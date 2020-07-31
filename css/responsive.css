@@ -3,7 +3,7 @@
  */
 
 @media (min-width: 1200px) {
-
+  
 }
 
 /** Width between 992px to 1199px
@@ -118,6 +118,7 @@
   /* About */
   .head-info .header-content h1 {
     font-size: 32px;
+    margin-left: -120px;
   }
   #about .div-img-bg {
     padding: 0;
@@ -189,6 +190,7 @@
   /* About */
   .head-info .header-content h1 {
     font-size: 32px;
+    margin-left: -120px;
   }
   #about .div-img-bg {
     padding: 0;
@@ -258,8 +260,11 @@
     display: block;
   }
   /* About */
+  .
   .head-info .header-content h1 {
     font-size: 32px;
+    
+  
    
   }
   #about .div-img-bg {
@@ -331,6 +336,7 @@
   /* About */
   .head-info .header-content h1 {
     font-size: 32px;
+    
   }
   #about .div-img-bg {
     padding: 0;

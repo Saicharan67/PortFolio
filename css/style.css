@@ -1,13 +1,4 @@
 
-/*
-  Theme Name: Folio
-  Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-  Author: BootstrapMade.com
-  Author URL: https://bootstrapmade.com
-*/
-
-/*  General Styling
-/*-----------------------------------------------------------------------------------*/
 
 body {
   background: #000000;
@@ -27,7 +18,7 @@ body {
   box-sizing: border-box;
 }
 
-h1, h2, h3, h4, h5, h6 {
+ h2, h3, h4, h5, h6 {
   margin: 0;
 }
 
@@ -271,6 +262,9 @@ nav ul li a {
   align-content: center;
   justify-content: center;
   flex-direction: column;
+   margin-left:  -4.5rem;
+   padding-top: 300px;
+
   
 }
 
@@ -278,8 +272,9 @@ nav ul li a {
   font-size: 40px;
   font-weight: 600;
   margin-bottom: 10px;
-  padding-top: 270px;
+ 
   color: #fff;
+ 
   
 }
 
@@ -288,7 +283,7 @@ nav ul li a {
   letter-spacing: 0.8px;
   margin-top: 0;
   margin-bottom: 20px;
-  
+ 
   text-transform: capitalize;
   color: #ece9e9;
   
