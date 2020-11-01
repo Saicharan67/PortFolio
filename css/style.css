@@ -464,6 +464,23 @@ nav ul li a {
 .portfolio-thumbnail img {
   max-width: 80%;
 }
+.ProjectBtn{
+  margin: 1rem;
+  background-color: #f7f7f7;
+  color: #000;
+  border-radius: 2rem;
+  padding: 0.5rem;
+  border: #000;
+  outline: none;
+}
+.ProjectBtn:hover{
+  background-color: #dfdddd;
+  transform: scale(1.05);
+  outline: none;
+}
+.ProjectBtn:focus{
+  outline: none;
+}
 .wg-box-content {
   position: relative;
   width: 90%;
